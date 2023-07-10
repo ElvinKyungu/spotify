@@ -1,0 +1,63 @@
+{
+    "name": "CNCO",
+    "albumCover": "https://scontent.ffbm1-1.fna.fbcdn.net/v/t39.30808-6/333268363_920044625815549_7345310666505463532_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGPuo5qB2-KYSvChe6U30x3og-PnbY8NgqiD4-dtjw2CrEzeoh5bpq3Tx2rzGu_kbGIiEyiHKAWmTMT1zZj2LYW&_nc_ohc=iqjG9nHXdykAX9qGchJ&_nc_zt=23&_nc_ht=scontent.ffbm1-1.fna&oh=00_AfBJG8kHVrQFjE-a-t2vdGQrngBUzuoxo-VLfJW5SKB3SQ&oe=64B116C4",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Intro",
+            "path": "/songs/Intro.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Solitude",
+            "path": "/songs/Solitude.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Manimal",
+            "path": "/songs/Manimal.mp3"
+        },
+        {
+            "id": 4,
+            "name": "J5",
+            "path": "/songs/J5.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Throne",
+            "path": "/songs/Throne.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Scarwhores",
+            "path": "/songs/Scarwhores.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Highschool Funeral",
+            "path": "/songs/Highschool Funeral.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Get Away",
+            "path": "/songs/Get Away.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Victims of Chaos",
+            "path": "/songs/Victims of Chaos.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Neruda",
+            "path": "/songs/Neruda.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Brother",
+            "path": "/songs/Brother.mp3"
+        }
+    ]
+}
+
